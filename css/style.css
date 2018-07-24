@@ -1,1 +1,26 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: red;
+      font-size: 150%;
+    }
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+  .anExampleClass {
+      font-size: 300%;
+      background-color: orange;
+      font-family: Comic;
+      border: 1px dotted red;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      transition: rotate(-30)deg;
+    }
+    
+    h3 {
+      font-size: 300%
+    }
+    
+    div {
+      p.groove border-style:groove;
+    }
